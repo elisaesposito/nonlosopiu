@@ -1,0 +1,9 @@
+{
+  "name": "Sorpresa",
+  "short_name": "Sorpresa",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fbd4de",
+  "description": "Conto alla rovescia per il 22 luglio",
+  "icons": []
+}
